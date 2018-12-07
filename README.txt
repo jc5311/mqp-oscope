@@ -1,1 +1,1 @@
-This is just a quick readme file created for created the oscilloscope application. This must be updated at a later time but for now this suffices for making our first commit.
+*This is just a quick readme file created for created the oscilloscope application. This must be updated at a later time but for now this suffices for making our first commit.
